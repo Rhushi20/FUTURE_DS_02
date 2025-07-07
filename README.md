@@ -33,14 +33,6 @@ This repository contains a Power BI dashboard that visualizes and analyzes the p
 
 ---
 
-## 📂 Files Included
-
-- `AD_Campaign.pbix` – Power BI dashboard file
-- `README.md` – Project overview
-- *(Optional: Add CSV or Excel source file if you wish to share raw data)*
-
----
-
 ## 🛠️ Tools & Skills Used
 
 - Power BI Desktop
